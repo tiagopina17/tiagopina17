@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tiago Pina</h1>
 <h3 align="center">A full stack developer from Portugal</h3>
 
-- 🔭 I’m currently working on [my degree final project "TOUCHminds"](github.com/tiagopina17/TOUCHminds)
+- 🔭 I’m currently working on [my degree final project "TOUCHminds"](https://github.com/tiagopina17/TOUCHminds)
 
 - 👨‍💻 My portfolio is available at [https://tiagopina17.github.io/portfolio/](https://tiagopina17.github.io/portfolio/)
 
