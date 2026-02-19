@@ -1,13 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tiago Pina</h1>
-<h3 align="center">A full stack developer from Portugal</h3>
-
-- 🔭 I’m currently working on [my degree final project "TOUCHminds"](https://github.com/tiagopina17/TOUCHminds)
-
-- 👨‍💻 My portfolio is available at [https://tiagopina17.github.io/portfolio/](https://tiagopina17.github.io/portfolio/)
-
-- 📫 How to reach me **tiagopina2004@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-wT4BsFdFPonhEK1Sft4Xg--TVpNcfUV/view?usp=sharing](https://drive.google.com/file/d/1-wT4BsFdFPonhEK1Sft4Xg--TVpNcfUV/view?usp=sharing)
+<h3 align="center">A CS student from Portugal</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
